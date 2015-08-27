@@ -1,14 +1,14 @@
 {
   "name": "materialize-sass",
   "version": "0.97.0",
-  "description": "Materialize sass and fonts",
+  "description": "Materialize sass and fonts, upgraded to 0.97.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bjyoungblood/materialize-sass.git"
+    "url": "https://github.com/dannycochran/materialize-sass.git"
   },
   "keywords": [
     "materialize"
@@ -16,7 +16,7 @@
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bjyoungblood/materialize-sass/issues"
+    "url": "https://github.com/dannycochran/materialize-sass/issues"
   },
-  "homepage": "https://github.com/bjyoungblood/materialize-sass"
+  "homepage": "https://github.com/dannycochran/materialize-sass"
 }
